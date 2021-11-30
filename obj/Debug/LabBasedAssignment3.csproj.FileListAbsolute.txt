@@ -1,0 +1,7 @@
+D:\Nordic\C#\LBA3\LabBasedAssignment3\LabBasedAssignment3\bin\Debug\LabBasedAssignment3.exe.config
+D:\Nordic\C#\LBA3\LabBasedAssignment3\LabBasedAssignment3\bin\Debug\LabBasedAssignment3.exe
+D:\Nordic\C#\LBA3\LabBasedAssignment3\LabBasedAssignment3\bin\Debug\LabBasedAssignment3.pdb
+D:\Nordic\C#\LBA3\LabBasedAssignment3\LabBasedAssignment3\obj\Debug\LabBasedAssignment3.csproj.SuggestedBindingRedirects.cache
+D:\Nordic\C#\LBA3\LabBasedAssignment3\LabBasedAssignment3\obj\Debug\LabBasedAssignment3.csproj.CoreCompileInputs.cache
+D:\Nordic\C#\LBA3\LabBasedAssignment3\LabBasedAssignment3\obj\Debug\LabBasedAssignment3.exe
+D:\Nordic\C#\LBA3\LabBasedAssignment3\LabBasedAssignment3\obj\Debug\LabBasedAssignment3.pdb
